@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733708850 source:c:\users\felipe\desktop\snakegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<locale.h>
+
